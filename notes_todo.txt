@@ -1,0 +1,19 @@
+1. create routing folder 
+2. forGroundDecorations : in stack 
+3. svg preview extension for previewing svg pictures
+4. positioned widget 
+5. if you have two lines text want to space between them use the hieght 
+6. button Style widget 
+7. revision Stack 
+8. git hub branches 1. Development branch ==> testing
+                    2. staging branch ==> double cheking for testing
+                    3. Production branch ==> for user
+** splash screen featured example
+- checkout Dev 
+- pull request Dev
+- create new branch 
+** new screen featured onboarding example
+|__ pull request to Dev branch 
+- ** complete push to Staging branch 
+- *** complete push to Production branch 
+
